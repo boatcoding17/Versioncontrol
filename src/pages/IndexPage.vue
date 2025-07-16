@@ -22,8 +22,8 @@
         label="Your age *"
         lazy-rules
         :rules="[
-          val => val !== null && val !== '' || 'Please type your age',
-          val => val > 0 && val < 100 || 'Please type a real age'
+          val => val !== null && val !== '' || 'กรุณาพิมพ์อายุของคุณ',
+          val => val > 0 && val < 100 || 'กรุณาพิมพ์อายุให้ถูกต้อง'
         ]"
       />
 
