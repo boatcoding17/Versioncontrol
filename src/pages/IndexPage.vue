@@ -27,8 +27,6 @@
     <!-- แสดงผล -->
     <p v-if="result">ผลลัพธ์: {{ result }}</p>
   </q-page>
-
-<h1>HELLO in template</h1>
 </template>
 
 <script setup>
@@ -46,4 +44,8 @@ function checkEvenOdd() {
     result.value = `${num.value} เป็นเลขคี่`
   }
 }
+<h1>HELLO 111112344567/h1>
 </script>
+
+
+
