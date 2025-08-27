@@ -6,13 +6,11 @@
       style="width: 200px; height: 200px"
     >
     
-    
-    <p>Welcome to Your Quasar App</p>
-    <p>My name is Samantachai Naksuk 6704101374</p>
   </q-page>
+
+<h1>HELLO in template</h1>
 </template>
 
 <script setup>
 // logic เขียนตรงนี้
 </script>
-
