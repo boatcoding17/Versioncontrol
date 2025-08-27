@@ -7,11 +7,12 @@
     >
    
   </q-page>
+
+<h1>HELLO in template</h1>
 </template>
 
 <script setup>
 //
 </script>
 
-<h1>HELLO 111112344567/h1>
 
